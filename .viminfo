@@ -18,7 +18,10 @@ $03-24
 
 # 命令行 历史记录 (从新到旧)：
 :q
+<<<<<<< HEAD
 :'<,'>
+=======
+>>>>>>> f2dc71843cba255913626ea9458ec3ddfd353c97
 :wq
 :w
 :q!
@@ -316,6 +319,7 @@ $03-24
 	 
 
 # 文件标记:
+<<<<<<< HEAD
 '0  3  0  ~/sixand-vimrc/.git/COMMIT_EDITMSG
 '1  1  0  ~/.ssh/id_rsa.pub
 '2  1  0  ~/.ssh/known_hosts
@@ -331,6 +335,20 @@ $03-24
 -'  3  0  ~/sixand-vimrc/.git/COMMIT_EDITMSG
 -'  1  0  ~/sixand-vimrc/.git/COMMIT_EDITMSG
 -'  1  0  ~/.ssh/id_rsa.pub
+=======
+'0  1  0  ~/.ssh/known_hosts
+'1  443  9  ~/.vimrc
+'2  3  0  ~/Public/src/main.c
+'3  2  10  ~/Desktop/test.html
+'4  1  0  ~/Desktop/交办范例.txt
+'5  66  20  ~/.bashrc
+'6  63  8  ~/.bashrc
+'7  24  0  ~/.profile
+'8  1  0  ~/.profile
+'9  32  7  ~/.bashrc
+
+# 跳转列表 (从新到旧):
+>>>>>>> f2dc71843cba255913626ea9458ec3ddfd353c97
 -'  1  0  ~/.ssh/known_hosts
 -'  443  9  ~/.vimrc
 -'  442  0  ~/.vimrc
@@ -428,11 +446,20 @@ $03-24
 -'  443  9  ~/.vimrc
 -'  442  0  ~/.vimrc
 -'  617  0  ~/.vimrc
+<<<<<<< HEAD
 
 # 文件内的标记历史记录 (从新到旧):
 
 > ~/sixand-vimrc/.git/COMMIT_EDITMSG
 	"	3	0
+=======
+-'  1  0  ~/.vimrc
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/.ssh/known_hosts
+	"	1	0
+>>>>>>> f2dc71843cba255913626ea9458ec3ddfd353c97
 
 > ~/.vimrecent
 	"	4	0
@@ -450,12 +477,15 @@ $03-24
 	+	2	0
 	+	1	0
 
+<<<<<<< HEAD
 > ~/.ssh/id_rsa.pub
 	"	1	0
 
 > ~/.ssh/known_hosts
 	"	1	0
 
+=======
+>>>>>>> f2dc71843cba255913626ea9458ec3ddfd353c97
 > ~/.vimrc
 	"	443	9
 	^	443	10
@@ -1171,3 +1201,14 @@ $03-24
 	^	57	23
 	.	57	22
 	+	57	22
+<<<<<<< HEAD
+=======
+
+> /etc/init.d/rc.local
+	"	23	2
+	.	23	0
+	+	23	0
+
+> /etc/init.d/rc
+	"	1	0
+>>>>>>> f2dc71843cba255913626ea9458ec3ddfd353c97
